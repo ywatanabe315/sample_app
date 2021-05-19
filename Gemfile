@@ -8,7 +8,7 @@ gem 'rails', '~> 5.2.3'
 # Use sqlite3 as the database for Active Record
 gem 'sqlite3'
 # Use Puma as the app server
-gem 'puma', '~> 3.11'
+gem 'puma', '~> 4.3'
 gem 'faker', '1.7.3'
 gem 'carrierwave', '1.2.2'
 gem 'mini_magick', '4.7.0'
